@@ -1,0 +1,7 @@
+{
+    "homepage": "https://eileencampbellreed.org/",
+    "homepage2": "https://eileencampbellreed.org/",
+    "scripts": {
+      "shorten": "netlify-shortener"
+    }
+  }
