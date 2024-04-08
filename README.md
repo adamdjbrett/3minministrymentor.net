@@ -10,3 +10,6 @@
 - [3minuteministrymentor.org](https://3minuteministrymentor.org)
 - [3minuteministrymentor.org](https://3minuteministrymentor.org)
 - [3mmm.live](https://3mmm.live)
+- [threeminuteministrymentor.com](https://threeminuteministrymentor.com)
+- [threeminuteministrymentor.net](https://threeminuteministrymentor.net)
+- [threeminuteministrymentor.org](https://threeminuteministrymentor.org)
