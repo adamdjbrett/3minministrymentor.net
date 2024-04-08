@@ -1,6 +1,9 @@
 {
-    "homepage": "https://eileencampbellreed.org/",
-    "homepage2": "https://eileencampbellreed.org/",
+    "homepage": "https://3minministrymentor.net",
+    "homepage2": "https://3minministrymentor.org",
+    "homepage3": "https://3minuteministrymentor.com",
+    "homepage4": "https://3minuteministrymentor.net",
+    "homepage5": "https://3minuteministrymentor.org",
     "scripts": {
       "shorten": "netlify-shortener"
     }
